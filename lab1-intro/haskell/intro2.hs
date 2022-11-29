@@ -1,5 +1,5 @@
 module Intro2 where
-
+-- test Comment
 -- String algebra:
 name = "Alice"
 -- "if" has a special syntax but otherwise a typed version of Lisp's "if":
